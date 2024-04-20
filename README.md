@@ -8,7 +8,7 @@ Animation of equipotential surfaces on a three-body periodic orbit
 - `main/`
     - `main/equilines.py`: Main functionality in the FieldLines class, which takes directly the simulation output data and computes and saves field lines using a marching squares algorithm.
     - `main/plot_utils.py`: Utility functions for plotting
-    - `main/utils.py`: Contains a single function for the animation,
+    - `main/utils.py`: Contains a single function for controling the transparency of field lines in the animation,
 - `main_notebook.ipynb`: Notebook where the animation is done
 
 ## Usage
