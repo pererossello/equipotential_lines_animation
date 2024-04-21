@@ -8,7 +8,7 @@ def alpha_function(F, width=0.15, P=4, offset=0):
 
     Parameters
     :F: (int) Number of frames
-    :dt: (float) With of the window (scaled to 1)
+    :width: (float) Width of the window (scaled to 1)
     :P: (int) Number of peaks
     :offset: (int) Offset to start the function
     """
